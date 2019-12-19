@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/manugroot/manu-bz1/issues"
   },
-  "homepage": "https://github.com/manugroot/manu-bz1#readme"
+  "homepage": "https://github.com/manugroot/manu-bz1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
