@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>BOOM!!!</title>
+<link rel='icon' href='image/img.ico' type='image/x-icon'/ >
+<link rel="stylesheet" type="text/css" href="css/site.css">
+</head>
+<body>
+
+<h1>R.Manish Reddy</h1>
+<p>17H51A04G6</p>
+<script src="js/site.js"></script>
+</body>
+</html>
